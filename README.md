@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/rupesh_gud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupesh_gud" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rupesh-gudmalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupesh-gudamalwar" height="30" width="40" /></a>
-  <a href="https://rupeshg.netlify.app/" target="blank"><input type="button" height="30" width="80" />Portfolio</a>
+  <a href="https://rupeshg.netlify.app/" target="blank"><input type="button" style="height:30px; width:80px"/>Portfolio</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
