@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rupesh Gudmalwar</h1>
 <h3 align="center">A passionate frontend developer from India, here is my mini <a href="https://rupeshg.netlify.app/" target="blank"><input type="button" style="height:30px; width:80px"/>Portfolio</a></h3>
 
-- 🌱 Currently I'm working with **ReactJs, Redux, TypeScript, GraphQL, Sass, Material UI.**
+- 🌱 I'm proficient working with **ReactJs, Javascript/TypeScript, Redux, HTML, CSS/SCSS, AWS-Amplify, Tailwind, Bootstrap, MUI, WEBPACK.**
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS.**
+- 💬 Ask me about **React, JavaScript, HTML, CSS/SCSS.**
 
 - 📫 How to reach me **rupeshgudmalwar1@gmail.com**
 
