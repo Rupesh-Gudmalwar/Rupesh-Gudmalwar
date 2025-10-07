@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rupesh Gudmalwar</h1>
 <h3 align="center">A passionate frontend developer from India, here is my mini <a href="https://rupeshg.netlify.app/" target="blank"><input type="button" style="height:30px; width:80px"/>Portfolio</a></h3>
 
-- 🌱 I'm proficient working with **ReactJs, Javascript/TypeScript, Redux, HTML, CSS/SCSS, AWS-Amplify, Tailwind, Bootstrap, MUI, WEBPACK.**
+- 🌱 I'm proficient working with **React.js, Next.js Javascript/TypeScript, Redux, HTML, CSS/SCSS, AWS-Amplify, Vercel, Tailwind CSS, Bootstrap, MUI, WEBPACK, Playwright.**
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS/SCSS.**
+- 💬 Ask me about **React.js, Next.js JavaScript, HTML, CSS/SCSS, Redux, Playwright.**
 
-- 📫 How to reach me **rupeshgudmalwar1@gmail.com**
+- 📫 How to reach me **rupesh.sde@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
