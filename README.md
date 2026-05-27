@@ -6,7 +6,7 @@
   <a href="mailto:rupesh.sde@gmail.com"><b>Email</b></a>
 </p>
 <br/>
-### 🧑‍💻 About Me
+**🧑‍💻 About Me**
 
 - 🎓 Mechanical engineer by degree, **self-taught programmer** by passion.
 - 🛵 Once ran my own startup — a 2-wheeler spare-parts marketplace — before going all-in on code.
@@ -15,7 +15,7 @@
 - 🌱 Currently exploring **micro-frontends, system design, and AI-assisted dev workflows**.
 - ⚡ Fun fact: I went from **fixing bikes to fixing bugs** — and I still love both.
 <br/>
-### 📫 Connect with me
+**### 📫 Connect with me**
 <p align="left">
   <a href="https://www.linkedin.com/in/rupesh-gudmalwar/" target="_blank" title="LinkedIn">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="32" height="32"/>
