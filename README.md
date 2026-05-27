@@ -5,16 +5,14 @@
   <a href="https://www.linkedin.com/in/rupesh-gudmalwar/"><b>LinkedIn</b></a> •
   <a href="mailto:rupesh.sde@gmail.com"><b>Email</b></a>
 </p>
-<br/>
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 - 🎓 Mechanical engineer by degree, **self-taught programmer** by passion.
 - 🛵 Once ran my own startup — a 2-wheeler spare-parts marketplace — before going all-in on code.
 - 💻 Now a **frontend-focused full-stack developer** with **4+ years** shipping production web apps across SaaS, hospitality, and travel.
 - 🏗️ I care about **clean architecture, performance budgets, and pixel-perfect UI**.
 - 🌱 Currently exploring **micro-frontends, system design, and AI-assisted dev workflows**.
 - ⚡ Fun fact: I went from **fixing bikes to fixing bugs** — and I still love both.
-<br/>
 
 ### 📫 Connect with me
 <p align="left">
@@ -72,4 +70,5 @@
 
 ### 🎓 Education
 **Bachelor of Engineering** — *MIT, Pune* &nbsp;·&nbsp; 2013 – 2017
+
 <sub>Switched lanes from mechanical to software — and never looked back. 🚀</sub>
