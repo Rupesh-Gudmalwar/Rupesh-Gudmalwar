@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 - 🎓 Mechanical engineer by degree, **self-taught programmer** by passion.
 - 🛵 Once ran my own startup — a 2-wheeler spare-parts marketplace — before going all-in on code.
-- 💻 Now a **frontend-focused full-stack developer** with **4+ years** shipping production web apps across SaaS, hospitality, and travel.
+- 💻 Now a **frontend-focused full-stack developer** with **5+ years** shipping production web apps across SaaS, hospitality, travel and healthcare.
 - 🏗️ I care about **clean architecture, performance budgets, and pixel-perfect UI**.
 - 🌱 Currently exploring **micro-frontends, system design, and AI-assisted dev workflows**.
 - ⚡ Fun fact: I went from **fixing bikes to fixing bugs** — and I still love both.
