@@ -14,10 +14,8 @@
 - 🏗️ I care about **clean architecture, performance budgets, and pixel-perfect UI**.
 - 🌱 Currently exploring **micro-frontends, system design, and AI-assisted dev workflows**.
 - ⚡ Fun fact: I went from **fixing bikes to fixing bugs** — and I still love both.
-
 <br/>
 ### 📫 Connect with me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/rupesh-gudmalwar/" target="_blank" title="LinkedIn">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="32" height="32"/>
@@ -39,9 +37,7 @@
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter / X" width="32" height="32"/>
   </a>
 </p>
-
 <br/>
-
 ### 🛠️ Skills
 
 <p align="left">
@@ -71,11 +67,8 @@
   <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
-
 <br/>
-
 ### 🎓 Education
-
 **B.E. Mechanical Engineering** — *MIT, Pune* &nbsp;·&nbsp; 2013 – 2017
 
 <sub>Switched lanes from mechanical to software — and never looked back. 🚀</sub>
