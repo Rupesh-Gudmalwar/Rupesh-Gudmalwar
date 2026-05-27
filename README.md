@@ -6,7 +6,7 @@
   <a href="mailto:rupesh.sde@gmail.com"><b>Email</b></a>
 </p>
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 - 🎓 Mechanical engineer by degree, **self-taught programmer** by passion.
 - 🛵 Once ran my own startup — a 2-wheeler spare-parts marketplace — before going all-in on code.
 - 💻 Now a **frontend-focused full-stack developer** with **4+ years** shipping production web apps across SaaS, hospitality, and travel.
@@ -14,7 +14,7 @@
 - 🌱 Currently exploring **micro-frontends, system design, and AI-assisted dev workflows**.
 - ⚡ Fun fact: I went from **fixing bikes to fixing bugs** — and I still love both.
 
-### 📫 Connect with me
+# 📫 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/rupesh-gudmalwar/" target="_blank" title="LinkedIn">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="32" height="32"/>
@@ -36,9 +36,8 @@
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter / X" width="32" height="32"/>
   </a>
 </p>
-<br/>
 
-### 🛠️ Skills
+# 🛠️ Skills
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
@@ -68,7 +67,7 @@
 </p>
 <br/>
 
-### 🎓 Education
+# 🎓 Education
 **Bachelor of Engineering** — *MIT, Pune* &nbsp;·&nbsp; 2013 – 2017
 
 <sub>Switched lanes from mechanical to software — and never looked back. 🚀</sub>
