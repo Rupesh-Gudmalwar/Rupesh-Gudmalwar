@@ -1,26 +1,55 @@
 <h1 align="center">Hi 👋, I'm Rupesh Gudmalwar</h1>
 
 <p align="center">
-  Frontend-focused full-stack developer from India. <br/>
-  I build fast, scalable web apps and obsess over the details. <br/>
-  <a href="https://rupesh-gudmalwar.netlify.app/"><b>🌐 Portfolio →</b></a>
+  <a href="https://rupesh-gudmalwar.netlify.app/"><b>🌐 Portfolio</b></a> •
+  <a href="https://www.linkedin.com/in/rupesh-gudmalwar/"><b>LinkedIn</b></a> •
+  <a href="mailto:rupesh.sde@gmail.com"><b>Email</b></a>
 </p>
 
 <br/>
 
-## 📫 Connect with me
+### 🧑‍💻 About Me
+
+- 🎓 Mechanical engineer by degree, **self-taught programmer** by passion.
+- 🛵 Once ran my own startup — a 2-wheeler spare-parts marketplace — before going all-in on code.
+- 💻 Now a **frontend-focused full-stack developer** with **4+ years** shipping production web apps across SaaS, hospitality, and travel.
+- 🏗️ I care about **clean architecture, performance budgets, and pixel-perfect UI**.
+- 🌱 Currently exploring **micro-frontends, system design, and AI-assisted dev workflows**.
+- ⚡ Fun fact: I went from **fixing bikes to fixing bugs** — and I still love both.
+
+<br/>
+
+### 📫 Connect with me
 
 <p align="left">
-  <a href="https://rupesh-gudmalwar.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
-  <a href="https://www.linkedin.com/in/rupesh-gudmalwar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="mailto:rupesh.sde@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
-  <a href="https://medium.com/@rupesh.sde" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a>
+  <a href="https://rupesh-gudmalwar.netlify.app/" target="_blank" title="Portfolio">
+    <img src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" width="28" height="28" style="margin-right:14px"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rupesh-gudmalwar/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28"/>
+  </a>
+  &nbsp;
+  <a href="mailto:rupesh.sde@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="28" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Rupesh-Gudmalwar" target="_blank" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="28" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@rupesh.sde" target="_blank" title="Medium">
+    <img src="https://cdn.simpleicons.org/medium/000000" alt="Medium" width="28" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/" target="_blank" title="Twitter">
+    <img src="https://cdn.simpleicons.org/x/000000" alt="Twitter / X" width="28" height="28"/>
+  </a>
 </p>
 
 <br/>
 
-## 🛠️ Skills
+### 🛠️ Skills
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -49,3 +78,11 @@
   <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
+
+<br/>
+
+### 🎓 Education
+
+**B.E. Mechanical Engineering** — *MIT, Pune* &nbsp;·&nbsp; 2013 – 2017
+
+<sub>Switched lanes from mechanical to software — and never looked back. 🚀</sub>
