@@ -5,9 +5,7 @@
   <a href="https://www.linkedin.com/in/rupesh-gudmalwar/"><b>LinkedIn</b></a> •
   <a href="mailto:rupesh.sde@gmail.com"><b>Email</b></a>
 </p>
-
 <br/>
-
 ### 🧑‍💻 About Me
 
 - 🎓 Mechanical engineer by degree, **self-taught programmer** by passion.
@@ -18,32 +16,27 @@
 - ⚡ Fun fact: I went from **fixing bikes to fixing bugs** — and I still love both.
 
 <br/>
-
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://rupesh-gudmalwar.netlify.app/" target="_blank" title="Portfolio">
-    <img src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" width="28" height="28" style="margin-right:14px"/>
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/rupesh-gudmalwar/" target="_blank" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="32" height="32"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:rupesh.sde@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="28" height="28"/>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="32" height="32"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Rupesh-Gudmalwar" target="_blank" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="28" height="28"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="32" height="32"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://medium.com/@rupesh.sde" target="_blank" title="Medium">
-    <img src="https://cdn.simpleicons.org/medium/000000" alt="Medium" width="28" height="28"/>
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="Medium" width="32" height="32"/>
   </a>
-  &nbsp;
-  <a href="https://twitter.com/" target="_blank" title="Twitter">
-    <img src="https://cdn.simpleicons.org/x/000000" alt="Twitter / X" width="28" height="28"/>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/" target="_blank" title="Twitter / X">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter / X" width="32" height="32"/>
   </a>
 </p>
 
@@ -69,7 +62,7 @@
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://www.prisma.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prisma/prisma-icon.svg" alt="prisma" width="40" height="40"/></a>
+  <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/></a>
   <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/></a>
   <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
   <a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
